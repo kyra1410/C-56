@@ -1,0 +1,8 @@
+img{
+    height:200px;
+    width:200px;
+}
+body{
+    text-align:center;
+    background:linear-gradient(pink 0%,purple 80%,yellow 20%);
+}
